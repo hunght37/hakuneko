@@ -25,7 +25,7 @@ export default class NewToki extends GnuBoard5BootstrapBasic2 {
                 label: 'URL',
                 description: 'This website changes their URL regularly.\nThis is the last known URL which can also be manually set by the user.',
                 input: 'text',
-                value: 'https://newtoki154.com'
+                value: 'https://newtoki340.com'
             }
         };
         this.links = {
